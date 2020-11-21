@@ -1,3 +1,2 @@
 # dumbflix-frontend
 
-test test
